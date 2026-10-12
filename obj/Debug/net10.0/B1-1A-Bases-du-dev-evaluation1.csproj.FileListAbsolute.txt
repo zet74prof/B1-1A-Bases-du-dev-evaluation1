@@ -1,0 +1,14 @@
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/bin/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/bin/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.deps.json
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/bin/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.runtimeconfig.json
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/bin/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.dll
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/bin/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.pdb
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/obj/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.GeneratedMSBuildEditorConfig.editorconfig
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/obj/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.AssemblyInfoInputs.cache
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/obj/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.AssemblyInfo.cs
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/obj/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.csproj.CoreCompileInputs.cache
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/obj/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.dll
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/obj/Debug/net10.0/refint/B1-1A-Bases-du-dev-evaluation1.dll
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/obj/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.pdb
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/obj/Debug/net10.0/B1-1A-Bases-du-dev-evaluation1.genruntimeconfig.cache
+/home/buffet.etienne/Dev/B1-1A-Bases-du-dev-evaluation1/B1-1A-Bases-du-dev-evaluation1/obj/Debug/net10.0/ref/B1-1A-Bases-du-dev-evaluation1.dll
